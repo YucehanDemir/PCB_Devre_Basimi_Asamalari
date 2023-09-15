@@ -22,6 +22,9 @@ fakat çok fazla VİA atabilir.)
 8-Son olarakta gerekli lehimleri yaparak kartı elde ederiz.
 
 NOT1:Yolların iletkenliğini Multimetre kullanarak test edebilirsiniz.
+
 NOT2:Ön ve Arka yüzde ki yolların Altium çizimlerinde ki gibi birebir denk getirmeye dikkat ediniz.
+
 NOT3:Tuz ruhu ve perhidrol karışımında çok fazla tutarsanız kartta olması gereken yolları da silebilirsiniz.
+
 NOT4:PMOD 8-ld kartı hakkında ve diğer pmod kartlarını basmak isterseniz detaylı bilgi için bu linki inceleyebilirsiniz.(https://digilent.com/reference/pmod/pmod8ld/reference-manual?redirect=1)
