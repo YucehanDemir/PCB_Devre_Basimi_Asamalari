@@ -1,5 +1,5 @@
 # PCB_Devre_Basimi
- Digilent sayfasında bulunan Pmod 8LD: Eight High-brightness LEDs kartının alitum çizimi ve kartın elle basım aşamalarını göstermektedir. 
+ Digilent sayfasında bulunan Pmod 8LD: Eight High-brightness LEDs kartının alitum çizimi dosyaları ve kartın elle basım aşamalarını göstermektedir. 
 
 Pmod 8-led kartını elle basmak için yapılması gereken aşamalar:
 
